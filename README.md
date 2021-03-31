@@ -2,4 +2,4 @@
 
 | CTF | CATEGORY | NAME |
 | --- | -------- | ---- |
-| abc | web      | haha |
+| VolgaCTF-2021-Quals | Web      | Unicorn Networks |
