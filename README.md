@@ -2,4 +2,4 @@
 
 | CTF | CATEGORY | NAME |
 | --- | -------- | ---- |
-| VolgaCTF-2021-Quals | Web      | Unicorn Networks |
+| HITCON-2020 | Web      | oStyle |
