@@ -1,0 +1,6 @@
+Content-type: text/html
+Body:----foo----
+<script>
+alert(document.domain)
+</script>
+----foo----
